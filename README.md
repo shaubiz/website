@@ -1,4 +1,4 @@
-# Shaubiz Solutions Website
+# Shau Biz Solutions Website
 
 Static one-page site. No build step, no dependencies, no third-party requests at runtime.
 Everything ships as plain files that GitHub Pages can serve directly.
