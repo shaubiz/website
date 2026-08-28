@@ -31,15 +31,12 @@
   <text x="147" y="108" font-family="Bricolage Grotesque" font-weight="700" font-size="30"
         letter-spacing="-.4" fill="#ffffff">Shaubiz Solutions</text>
 
-  <!-- eyebrow -->
-  <text x="80" y="252" font-family="Inter" font-weight="700" font-size="19"
-        letter-spacing="2.6" fill="#60a5fa">BLOCKCHAIN &amp; WEB3</text>
 
   <!-- headline -->
-  <text x="80" y="340" font-family="Bricolage Grotesque" font-weight="800" font-size="78"
-        letter-spacing="-2.2" fill="#ffffff">Building the future of</text>
-  <text x="80" y="424" font-family="Bricolage Grotesque" font-weight="800" font-size="78"
-        letter-spacing="-2.2" fill="url(#accent)">blockchain.</text>
+  <text x="80" y="292" font-family="Bricolage Grotesque" font-weight="800" font-size="78"
+        letter-spacing="-2.2" fill="#ffffff">Practical blockchain</text>
+  <text x="80" y="376" font-family="Bricolage Grotesque" font-weight="800" font-size="78"
+        letter-spacing="-2.2" fill="url(#accent)">engineering.</text>
 
   <!-- divider -->
   <rect x="80" y="502" width="1040" height="1" fill="#ffffff" fill-opacity=".1"/>
